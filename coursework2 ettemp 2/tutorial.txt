@@ -1,0 +1,6 @@
+3434,frank,671222
+tom,324444,dick
+232331,yoyo,56
+membership number: 1 member ship type is default member name is 1 membership start date equal 10|10|1000
+membership number: 1 member ship type is default member name is 1 membership start date equal 10|10|1000
+membership number: 1 member ship type is default member name is 1 membership start date equal 10|10|1000
